@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django_daraja',
     'djangoMpesa_Stones'
+
 ]
 
 MIDDLEWARE = [
